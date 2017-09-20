@@ -1,1 +1,0 @@
-Win+R(run) -> gpedit.msc(Enter Local Group Policy Editor) -> User Configuration -> Administrative Templates -> Windows Components -> Attachment Manager -> Double-Click **Inclusion list for moderate risk file types** -> Tick Enabled and type in **.exe**
