@@ -1,4 +1,4 @@
-# 1. Visit https://www.google.com/ncr
+# 1. Visit https://www.google.com/ncr //ncr means *No Country Redirect*
 
 ---
 
